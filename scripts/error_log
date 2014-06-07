@@ -1,0 +1,281 @@
+[28-May-2014 05:00:17 America/Chicago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting :: (T_PAAMAYIM_NEKUDOTAYIM) in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 7
+[28-May-2014 05:00:52 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting :: (T_PAAMAYIM_NEKUDOTAYIM) in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 7
+[28-May-2014 05:01:49 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 8
+[28-May-2014 05:01:49 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 8
+[28-May-2014 05:01:49 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 8
+[28-May-2014 05:01:49 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 8
+[28-May-2014 05:01:49 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 8
+[28-May-2014 05:01:49 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 8
+[28-May-2014 05:01:49 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 8
+[28-May-2014 05:01:49 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 8
+[28-May-2014 05:01:58 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 8
+[28-May-2014 05:01:58 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 8
+[28-May-2014 05:01:58 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 8
+[28-May-2014 05:01:58 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 8
+[28-May-2014 05:01:58 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 8
+[28-May-2014 05:01:58 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 8
+[28-May-2014 05:01:58 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 8
+[28-May-2014 05:01:58 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 8
+[28-May-2014 05:03:12 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 8
+[28-May-2014 05:03:12 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 8
+[28-May-2014 05:03:12 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 8
+[28-May-2014 05:03:12 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 8
+[28-May-2014 05:03:12 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 8
+[28-May-2014 05:03:12 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 8
+[28-May-2014 05:03:12 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 8
+[28-May-2014 05:03:12 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 8
+[28-May-2014 05:03:23 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 8
+[28-May-2014 05:03:23 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 8
+[28-May-2014 05:03:23 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 8
+[28-May-2014 05:03:23 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 8
+[28-May-2014 05:03:23 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 8
+[28-May-2014 05:03:23 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 8
+[28-May-2014 05:03:23 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 8
+[28-May-2014 05:03:23 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 8
+[28-May-2014 05:04:00 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 8
+[28-May-2014 05:04:00 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 8
+[28-May-2014 05:04:00 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 8
+[28-May-2014 05:04:00 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 8
+[28-May-2014 05:04:00 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 8
+[28-May-2014 05:04:00 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 8
+[28-May-2014 05:04:00 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 8
+[28-May-2014 05:04:00 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 8
+[28-May-2014 05:05:57 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 8
+[28-May-2014 05:05:57 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 8
+[28-May-2014 05:05:57 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 8
+[28-May-2014 05:05:57 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 8
+[28-May-2014 05:05:57 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 8
+[28-May-2014 05:05:57 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 8
+[28-May-2014 05:05:57 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 8
+[28-May-2014 05:05:57 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 8
+[28-May-2014 05:05:59 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 8
+[28-May-2014 05:05:59 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 8
+[28-May-2014 05:05:59 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 8
+[28-May-2014 05:05:59 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 8
+[28-May-2014 05:05:59 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 8
+[28-May-2014 05:05:59 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 8
+[28-May-2014 05:05:59 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 8
+[28-May-2014 05:05:59 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 8
+[28-May-2014 05:07:05 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 8
+[28-May-2014 05:07:05 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 8
+[28-May-2014 05:07:05 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 8
+[28-May-2014 05:07:05 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 8
+[28-May-2014 05:07:05 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 8
+[28-May-2014 05:07:05 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 8
+[28-May-2014 05:07:05 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 8
+[28-May-2014 05:07:05 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 8
+[28-May-2014 05:07:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 8
+[28-May-2014 05:07:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 8
+[28-May-2014 05:07:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 8
+[28-May-2014 05:07:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 8
+[28-May-2014 05:07:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 8
+[28-May-2014 05:07:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 8
+[28-May-2014 05:07:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 8
+[28-May-2014 05:07:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 8
+[28-May-2014 05:09:21 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 7
+[28-May-2014 05:10:25 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 7
+[28-May-2014 05:10:27 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 7
+[28-May-2014 05:11:44 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 7
+[28-May-2014 05:11:48 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 7
+[28-May-2014 05:12:01 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 7
+[28-May-2014 05:12:29 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 7
+[28-May-2014 05:12:30 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 7
+[28-May-2014 05:13:30 America/Chicago] PHP Parse error:  syntax error, unexpected '++' (T_INC), expecting ',' or ';' in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 9
+[28-May-2014 05:15:03 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 7
+[28-May-2014 05:15:41 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 7
+[28-May-2014 05:16:20 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 9
+[28-May-2014 05:18:01 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 9
+[28-May-2014 05:19:36 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 9
+[28-May-2014 05:20:18 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 10
+[28-May-2014 05:23:19 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 6
+[28-May-2014 05:23:59 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 9
+[28-May-2014 05:24:27 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 9
+[28-May-2014 05:25:22 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 9
+[28-May-2014 05:25:24 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 9
+[28-May-2014 05:26:32 America/Chicago] PHP Parse error:  syntax error, unexpected '$results' (T_VARIABLE) in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 7
+[28-May-2014 05:26:41 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 10
+[28-May-2014 05:27:07 America/Chicago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 10
+[28-May-2014 05:27:16 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 10
+[28-May-2014 05:28:56 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 10
+[28-May-2014 05:29:24 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 11
+[28-May-2014 05:30:22 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 12
+[28-May-2014 05:32:46 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 12
+[28-May-2014 05:32:56 America/Chicago] PHP Parse error:  syntax error, unexpected '$results' (T_VARIABLE) in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 6
+[28-May-2014 05:33:02 America/Chicago] PHP Parse error:  syntax error, unexpected '$results' (T_VARIABLE) in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 6
+[28-May-2014 05:33:14 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 12
+[28-May-2014 05:33:31 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 12
+[28-May-2014 05:33:40 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 12
+[28-May-2014 05:34:24 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 12
+[28-May-2014 05:34:47 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 12
+[28-May-2014 05:40:16 America/Chicago] PHP Parse error:  syntax error, unexpected '"name"' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 11
+[28-May-2014 05:41:41 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 19
+[28-May-2014 05:45:50 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 8
+[28-May-2014 05:46:05 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 8
+[28-May-2014 06:26:55 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'breno_funny'@'192.185.17.124' (using password: YES) in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 13
+[28-May-2014 06:26:55 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 14
+[28-May-2014 06:26:55 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 17
+[28-May-2014 06:29:17 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'breno_funny'@'192.185.17.124' (using password: YES) in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 13
+[28-May-2014 06:29:17 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 14
+[28-May-2014 06:29:17 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 17
+[28-May-2014 06:46:00 America/Chicago] PHP Parse error:  syntax error, unexpected '$request' (T_VARIABLE), expecting function (T_FUNCTION) in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 8
+[28-May-2014 06:46:37 America/Chicago] PHP Warning:  require_once(config.php): failed to open stream: No such file or directory in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 2
+[28-May-2014 06:46:37 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'config.php' (include_path='.:/opt/php54/lib/php') in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 2
+[28-May-2014 06:47:07 America/Chicago] PHP Warning:  require_once(scripts/config.php): failed to open stream: No such file or directory in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 2
+[28-May-2014 06:47:07 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'scripts/config.php' (include_path='.:/opt/php54/lib/php') in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 2
+[28-May-2014 06:47:21 America/Chicago] PHP Warning:  require_once(scripts/Config.php): failed to open stream: No such file or directory in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 2
+[28-May-2014 06:47:21 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'scripts/Config.php' (include_path='.:/opt/php54/lib/php') in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 2
+[28-May-2014 06:49:18 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 45
+[28-May-2014 06:49:36 America/Chicago] PHP Fatal error:  Call to undefined function insertPosts() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 13
+[28-May-2014 06:49:58 America/Chicago] PHP Fatal error:  Call to undefined method config::prepare() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 25
+[28-May-2014 06:51:40 America/Chicago] PHP Fatal error:  Call to undefined method config::prepare() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 25
+[28-May-2014 06:52:11 America/Chicago] PHP Fatal error:  Call to undefined method Config::prepare() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 25
+[28-May-2014 06:52:33 America/Chicago] PHP Warning:  PDO::__construct() expects at least 1 parameter, 0 given in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 10
+[28-May-2014 06:52:33 America/Chicago] PHP Fatal error:  Call to a member function connect() on a non-object in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 11
+[28-May-2014 06:58:14 America/Chicago] PHP Parse error:  syntax error, unexpected '$conn' (T_VARIABLE), expecting function (T_FUNCTION) in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 8
+[28-May-2014 06:58:28 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 29
+[28-May-2014 06:58:28 America/Chicago] PHP Fatal error:  Call to undefined function disconnect() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 38
+[28-May-2014 06:58:50 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 29
+[28-May-2014 07:03:01 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 31
+[28-May-2014 07:03:06 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 31
+[28-May-2014 07:03:15 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 31
+[28-May-2014 07:03:22 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 31
+[28-May-2014 07:03:51 America/Chicago] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 36
+[28-May-2014 07:03:51 America/Chicago] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 36
+[28-May-2014 07:03:51 America/Chicago] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 36
+[28-May-2014 07:03:51 America/Chicago] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 36
+[28-May-2014 07:03:51 America/Chicago] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 36
+[28-May-2014 07:03:51 America/Chicago] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 36
+[28-May-2014 07:03:51 America/Chicago] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 36
+[28-May-2014 07:03:51 America/Chicago] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 36
+[28-May-2014 07:03:51 America/Chicago] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 36
+[28-May-2014 07:03:51 America/Chicago] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 36
+[28-May-2014 07:03:51 America/Chicago] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 36
+[28-May-2014 07:03:51 America/Chicago] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 36
+[28-May-2014 07:03:51 America/Chicago] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 36
+[28-May-2014 07:03:51 America/Chicago] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 36
+[28-May-2014 07:03:51 America/Chicago] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 36
+[28-May-2014 07:03:51 America/Chicago] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 36
+[28-May-2014 07:03:51 America/Chicago] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 36
+[28-May-2014 07:03:51 America/Chicago] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 36
+[28-May-2014 07:03:51 America/Chicago] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 36
+[28-May-2014 07:03:51 America/Chicago] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 36
+[28-May-2014 07:03:51 America/Chicago] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 36
+[28-May-2014 07:03:51 America/Chicago] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 36
+[28-May-2014 07:03:51 America/Chicago] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 36
+[28-May-2014 07:03:51 America/Chicago] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 36
+[28-May-2014 07:03:51 America/Chicago] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 36
+[29-May-2014 05:50:33 America/Chicago] img added: http://i.imgur.com/JXy8FOo.gif
+[29-May-2014 05:50:34 America/Chicago] img added: http://i.imgur.com/lxRZDbV.gif
+[29-May-2014 05:50:34 America/Chicago] img added: http://i.imgur.com/RqNLO5J.gif
+[29-May-2014 05:50:34 America/Chicago] img added: http://i.imgur.com/o1n5J.gif
+[29-May-2014 05:50:35 America/Chicago] img added: http://i.imgur.com/BIcFUBb.gif
+[29-May-2014 05:50:35 America/Chicago] img added: http://giant.gfycat.com/AppropriateLinedHypacrosaurus.gif
+[29-May-2014 05:50:35 America/Chicago] img added: http://i.imgur.com/rON2dv0.gif
+[29-May-2014 05:50:36 America/Chicago] img added: http://i.minus.com/iiend79jjNHUA.gif
+[29-May-2014 05:50:36 America/Chicago] img added: http://i.imgur.com/UQwZdTu.gif
+[29-May-2014 05:50:37 America/Chicago] img added: http://i.imgur.com/9tqdSa7.gif
+[29-May-2014 05:50:37 America/Chicago] img added: http://37.media.tumblr.com/2ef3f125817ea9708a90872c4923c61c/tumblr_n15l5n02eK1qdlh1io1_400.gif
+[29-May-2014 05:50:37 America/Chicago] img added: http://i.imgur.com/1LKhsVp.gif
+[29-May-2014 05:50:38 America/Chicago] img added: https://lh6.googleusercontent.com/-WkGWlGKXvZU/U4WnXvAtNZI/AAAAAAADRtM/xMWcfiNDPlI/w426-h240-no/test.gif
+[29-May-2014 05:50:38 America/Chicago] img added: http://i.imgur.com/JsJflTY.gif
+[29-May-2014 05:50:38 America/Chicago] img added: http://i.imgur.com/ZArUA6X.gif
+[29-May-2014 05:50:38 America/Chicago] img added: http://i.imgur.com/vFc8I2f.gif
+[29-May-2014 05:50:44 America/Chicago] img added: http://gifsec.com/wp-content/uploads/GIF/2014/05/GIF-Chick-vs.-Cat.gif
+[29-May-2014 05:50:45 America/Chicago] img added: http://i.imgur.com/npZEnQ9.gif
+[29-May-2014 05:50:45 America/Chicago] img added: http://i.imgur.com/ajWkHY1.gif
+[29-May-2014 05:50:45 America/Chicago] img added: http://i.imgur.com/jZgqbDf.gif
+[29-May-2014 05:50:45 America/Chicago] img added: http://i.imgur.com/NAIKBDm.gif
+[29-May-2014 05:50:46 America/Chicago] img added: http://i.imgur.com/kFdf2kM.gif
+[29-May-2014 05:50:46 America/Chicago] img added: http://i.imgur.com/ttxg6Jg.gif
+[29-May-2014 05:50:46 America/Chicago] img added: http://i.imgur.com/6wRDC37.gif
+[29-May-2014 05:50:46 America/Chicago] img added: http://i.imgur.com/rS0N65z.jpg
+[29-May-2014 05:57:27 America/Chicago] img added: http://i.imgur.com/JXy8FOo.gif
+[29-May-2014 05:57:27 America/Chicago] img added: http://i.imgur.com/lxRZDbV.gif
+[29-May-2014 05:57:28 America/Chicago] img added: http://i.imgur.com/RqNLO5J.gif
+[29-May-2014 05:57:28 America/Chicago] img added: http://i.imgur.com/o1n5J.gif
+[29-May-2014 05:57:29 America/Chicago] img added: http://i.imgur.com/BIcFUBb.gif
+[29-May-2014 05:57:29 America/Chicago] img added: http://giant.gfycat.com/AppropriateLinedHypacrosaurus.gif
+[29-May-2014 05:57:29 America/Chicago] img added: http://i.imgur.com/rON2dv0.gif
+[29-May-2014 05:57:33 America/Chicago] img added: http://i.minus.com/iiend79jjNHUA.gif
+[29-May-2014 05:57:34 America/Chicago] img added: http://i.imgur.com/UQwZdTu.gif
+[29-May-2014 05:57:34 America/Chicago] img added: http://i.imgur.com/9tqdSa7.gif
+[29-May-2014 05:57:34 America/Chicago] img added: http://37.media.tumblr.com/2ef3f125817ea9708a90872c4923c61c/tumblr_n15l5n02eK1qdlh1io1_400.gif
+[29-May-2014 05:57:34 America/Chicago] img added: http://i.imgur.com/1LKhsVp.gif
+[29-May-2014 05:57:35 America/Chicago] img added: https://lh6.googleusercontent.com/-WkGWlGKXvZU/U4WnXvAtNZI/AAAAAAADRtM/xMWcfiNDPlI/w426-h240-no/test.gif
+[29-May-2014 05:57:35 America/Chicago] img added: http://i.imgur.com/JsJflTY.gif
+[29-May-2014 05:57:35 America/Chicago] img added: http://i.imgur.com/ZArUA6X.gif
+[29-May-2014 05:57:35 America/Chicago] img added: http://i.imgur.com/vFc8I2f.gif
+[29-May-2014 05:57:42 America/Chicago] img added: http://gifsec.com/wp-content/uploads/GIF/2014/05/GIF-Chick-vs.-Cat.gif
+[29-May-2014 05:57:42 America/Chicago] img added: http://i.imgur.com/npZEnQ9.gif
+[29-May-2014 05:57:42 America/Chicago] img added: http://i.imgur.com/ajWkHY1.gif
+[29-May-2014 05:57:43 America/Chicago] img added: http://i.imgur.com/jZgqbDf.gif
+[29-May-2014 05:57:43 America/Chicago] img added: http://i.imgur.com/NAIKBDm.gif
+[29-May-2014 05:57:43 America/Chicago] img added: http://i.imgur.com/kFdf2kM.gif
+[29-May-2014 05:57:43 America/Chicago] img added: http://i.imgur.com/ttxg6Jg.gif
+[29-May-2014 05:57:44 America/Chicago] img added: http://i.imgur.com/6wRDC37.gif
+[29-May-2014 05:57:44 America/Chicago] img added: http://i.imgur.com/rS0N65z.jpg
+[29-May-2014 06:01:29 America/Chicago] img added: http://i.imgur.com/JXy8FOo.gif
+[29-May-2014 06:01:29 America/Chicago] img added: http://i.imgur.com/lxRZDbV.gif
+[29-May-2014 06:01:29 America/Chicago] img added: http://i.imgur.com/JXy8FOo.gif
+[29-May-2014 06:01:29 America/Chicago] img added: http://i.imgur.com/lxRZDbV.gif
+[29-May-2014 06:01:29 America/Chicago] img added: http://i.imgur.com/RqNLO5J.gif
+[29-May-2014 06:01:29 America/Chicago] img added: http://i.imgur.com/RqNLO5J.gif
+[29-May-2014 06:01:29 America/Chicago] img added: http://i.imgur.com/o1n5J.gif
+[29-May-2014 06:01:30 America/Chicago] img added: http://i.imgur.com/o1n5J.gif
+[29-May-2014 06:01:30 America/Chicago] img added: http://i.imgur.com/BIcFUBb.gif
+[29-May-2014 06:01:30 America/Chicago] img added: http://i.imgur.com/BIcFUBb.gif
+[29-May-2014 06:01:30 America/Chicago] img added: http://giant.gfycat.com/AppropriateLinedHypacrosaurus.gif
+[29-May-2014 06:01:30 America/Chicago] img added: http://i.imgur.com/rON2dv0.gif
+[29-May-2014 06:01:30 America/Chicago] img added: http://giant.gfycat.com/AppropriateLinedHypacrosaurus.gif
+[29-May-2014 06:01:30 America/Chicago] img added: http://i.imgur.com/rON2dv0.gif
+[29-May-2014 06:01:31 America/Chicago] img added: http://i.minus.com/iiend79jjNHUA.gif
+[29-May-2014 06:01:31 America/Chicago] img added: http://i.minus.com/iiend79jjNHUA.gif
+[29-May-2014 06:01:32 America/Chicago] img added: http://i.imgur.com/UQwZdTu.gif
+[29-May-2014 06:01:32 America/Chicago] img added: http://i.imgur.com/UQwZdTu.gif
+[29-May-2014 06:01:32 America/Chicago] img added: http://i.imgur.com/9tqdSa7.gif
+[29-May-2014 06:01:32 America/Chicago] img added: http://i.imgur.com/9tqdSa7.gif
+[29-May-2014 06:01:32 America/Chicago] img added: http://37.media.tumblr.com/2ef3f125817ea9708a90872c4923c61c/tumblr_n15l5n02eK1qdlh1io1_400.gif
+[29-May-2014 06:01:32 America/Chicago] img added: http://37.media.tumblr.com/2ef3f125817ea9708a90872c4923c61c/tumblr_n15l5n02eK1qdlh1io1_400.gif
+[29-May-2014 06:01:32 America/Chicago] img added: http://i.imgur.com/1LKhsVp.gif
+[29-May-2014 06:01:32 America/Chicago] img added: http://i.imgur.com/1LKhsVp.gif
+[29-May-2014 06:01:33 America/Chicago] img added: https://lh6.googleusercontent.com/-WkGWlGKXvZU/U4WnXvAtNZI/AAAAAAADRtM/xMWcfiNDPlI/w426-h240-no/test.gif
+[29-May-2014 06:01:33 America/Chicago] img added: https://lh6.googleusercontent.com/-WkGWlGKXvZU/U4WnXvAtNZI/AAAAAAADRtM/xMWcfiNDPlI/w426-h240-no/test.gif
+[29-May-2014 06:01:33 America/Chicago] img added: http://i.imgur.com/JsJflTY.gif
+[29-May-2014 06:01:33 America/Chicago] img added: http://i.imgur.com/JsJflTY.gif
+[29-May-2014 06:01:33 America/Chicago] img added: http://i.imgur.com/ZArUA6X.gif
+[29-May-2014 06:01:33 America/Chicago] img added: http://i.imgur.com/vFc8I2f.gif
+[29-May-2014 06:01:33 America/Chicago] img added: http://i.imgur.com/ZArUA6X.gif
+[29-May-2014 06:01:33 America/Chicago] img added: http://i.imgur.com/vFc8I2f.gif
+[29-May-2014 06:01:39 America/Chicago] img added: http://gifsec.com/wp-content/uploads/GIF/2014/05/GIF-Chick-vs.-Cat.gif
+[29-May-2014 06:01:39 America/Chicago] img added: http://i.imgur.com/npZEnQ9.gif
+[29-May-2014 06:01:39 America/Chicago] img added: http://i.imgur.com/ajWkHY1.gif
+[29-May-2014 06:01:39 America/Chicago] img added: http://i.imgur.com/jZgqbDf.gif
+[29-May-2014 06:01:39 America/Chicago] img added: http://i.imgur.com/NAIKBDm.gif
+[29-May-2014 06:01:40 America/Chicago] img added: http://i.imgur.com/kFdf2kM.gif
+[29-May-2014 06:01:40 America/Chicago] img added: http://i.imgur.com/ttxg6Jg.gif
+[29-May-2014 06:01:40 America/Chicago] img added: http://i.imgur.com/6wRDC37.gif
+[29-May-2014 06:01:40 America/Chicago] img added: http://i.imgur.com/rS0N65z.jpg
+[29-May-2014 06:01:41 America/Chicago] img added: http://gifsec.com/wp-content/uploads/GIF/2014/05/GIF-Chick-vs.-Cat.gif
+[29-May-2014 06:01:42 America/Chicago] img added: http://i.imgur.com/npZEnQ9.gif
+[29-May-2014 06:01:42 America/Chicago] img added: http://i.imgur.com/ajWkHY1.gif
+[29-May-2014 06:01:42 America/Chicago] img added: http://i.imgur.com/jZgqbDf.gif
+[29-May-2014 06:01:42 America/Chicago] img added: http://i.imgur.com/NAIKBDm.gif
+[29-May-2014 06:01:42 America/Chicago] img added: http://i.imgur.com/kFdf2kM.gif
+[29-May-2014 06:01:42 America/Chicago] img added: http://i.imgur.com/ttxg6Jg.gif
+[29-May-2014 06:01:43 America/Chicago] img added: http://i.imgur.com/6wRDC37.gif
+[29-May-2014 06:01:43 America/Chicago] img added: http://i.imgur.com/rS0N65z.jpg
+[29-May-2014 06:14:43 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home4/breno/public_html/funnybee/scripts/functions.php on line 3
+[29-May-2014 06:14:43 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home4/breno/public_html/funnybee/scripts/functions.php on line 3
+[29-May-2014 06:15:14 America/Chicago] PHP Fatal error:  Call to undefined method getNewPosts::img_exists() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 39
+[29-May-2014 06:15:26 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home4/breno/public_html/funnybee/scripts/functions.php on line 3
+[29-May-2014 06:16:23 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home4/breno/public_html/funnybee/scripts/functions.php on line 3
+[29-May-2014 06:18:04 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home4/breno/public_html/funnybee/scripts/functions.php on line 3
+[29-May-2014 06:18:45 America/Chicago] PHP Fatal error:  Call to undefined method getNewPosts::img_exists() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 39
+[29-May-2014 06:19:06 America/Chicago] PHP Fatal error:  Call to undefined function img_exists() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 39
+[29-May-2014 06:19:14 America/Chicago] PHP Fatal error:  Call to undefined function img_exists() in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 39
+[29-May-2014 06:19:30 America/Chicago] PHP Fatal error:  Call to a member function img_exists() on a non-object in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 39
+[29-May-2014 06:19:42 America/Chicago] PHP Fatal error:  Class name must be a valid object or a string in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 39
+[30-May-2014 14:00:45 America/Chicago] PHP Parse error:  syntax error, unexpected '$stm' (T_VARIABLE) in /home4/breno/public_html/funnybee/scripts/getNewPosts.php on line 45
+[02-Jun-2014 07:52:16 America/Chicago] PHP Parse error:  syntax error, unexpected 'postsApi' (T_STRING) in /home4/breno/public_html/funnybee/scripts/api.php on line 33
+[02-Jun-2014 07:52:26 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home4/breno/public_html/funnybee/scripts/api.php on line 33
+[02-Jun-2014 07:52:29 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home4/breno/public_html/funnybee/scripts/api.php on line 33

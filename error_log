@@ -1,0 +1,108 @@
+[28-May-2014 08:25:15 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home4/breno/public_html/funnybee/scripts/Loop.php on line 41
+[28-May-2014 08:25:36 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home4/breno/public_html/funnybee/scripts/Loop.php on line 24
+[28-May-2014 08:25:47 America/Chicago] PHP Fatal error:  Call to undefined method Config::connect() in /home4/breno/public_html/funnybee/scripts/Loop.php on line 12
+[28-May-2014 08:26:41 America/Chicago] PHP Fatal error:  Call to undefined method Config::connect() in /home4/breno/public_html/funnybee/scripts/Loop.php on line 12
+[28-May-2014 08:28:10 America/Chicago] PHP Fatal error:  Call to undefined method Config::connect() in /home4/breno/public_html/funnybee/scripts/Loop.php on line 12
+[28-May-2014 08:28:12 America/Chicago] PHP Fatal error:  Call to undefined method Config::connect() in /home4/breno/public_html/funnybee/scripts/Loop.php on line 12
+[28-May-2014 08:29:31 America/Chicago] PHP Fatal error:  Class 'Configs' not found in /home4/breno/public_html/funnybee/scripts/Loop.php on line 11
+[28-May-2014 08:30:18 America/Chicago] PHP Fatal error:  Call to undefined method Config::connect() in /home4/breno/public_html/funnybee/scripts/Loop.php on line 12
+[28-May-2014 08:30:22 America/Chicago] PHP Fatal error:  Call to undefined method Config::connect() in /home4/breno/public_html/funnybee/scripts/Loop.php on line 12
+[28-May-2014 08:32:38 America/Chicago] PHP Fatal error:  Call to undefined method Config::connect() in /home4/breno/public_html/funnybee/scripts/Loop.php on line 11
+[28-May-2014 08:32:39 America/Chicago] PHP Fatal error:  Call to undefined method Config::connect() in /home4/breno/public_html/funnybee/scripts/Loop.php on line 11
+[28-May-2014 08:33:20 America/Chicago] PHP Fatal error:  Call to undefined method Config::connect() in /home4/breno/public_html/funnybee/scripts/Loop.php on line 11
+[28-May-2014 08:34:58 America/Chicago] PHP Fatal error:  Call to undefined method Config::connect() in /home4/breno/public_html/funnybee/scripts/Loop.php on line 11
+[28-May-2014 08:35:00 America/Chicago] PHP Fatal error:  Call to undefined method Config::connect() in /home4/breno/public_html/funnybee/scripts/Loop.php on line 11
+[28-May-2014 08:36:19 America/Chicago] PHP Fatal error:  Call to undefined method Config::connect() in /home4/breno/public_html/funnybee/scripts/Loop.php on line 11
+[28-May-2014 08:36:29 America/Chicago] PHP Fatal error:  Call to undefined method Config::connect() in /home4/breno/public_html/funnybee/scripts/Loop.php on line 11
+[28-May-2014 08:36:31 America/Chicago] PHP Fatal error:  Call to undefined method Config::connect() in /home4/breno/public_html/funnybee/scripts/Loop.php on line 11
+[28-May-2014 08:36:38 America/Chicago] PHP Fatal error:  Call to undefined method Config::connect() in /home4/breno/public_html/funnybee/scripts/Loop.php on line 11
+[28-May-2014 08:36:40 America/Chicago] PHP Fatal error:  Call to undefined method Config::connect() in /home4/breno/public_html/funnybee/scripts/Loop.php on line 11
+[28-May-2014 08:36:51 America/Chicago] PHP Fatal error:  Call to undefined method Config::connect() in /home4/breno/public_html/funnybee/scripts/Loop.php on line 11
+[28-May-2014 08:36:52 America/Chicago] PHP Fatal error:  Call to undefined method Config::connect() in /home4/breno/public_html/funnybee/scripts/Loop.php on line 11
+[28-May-2014 08:40:00 America/Chicago] PHP Fatal error:  Call to undefined method Config::connect() in /home4/breno/public_html/funnybee/scripts/Loop.php on line 11
+[28-May-2014 08:58:05 America/Chicago] PHP Fatal error:  Call to undefined method Config::connect() in /home4/breno/public_html/funnybee/scripts/Loop.php on line 11
+[28-May-2014 08:58:06 America/Chicago] PHP Fatal error:  Call to undefined method Config::connect() in /home4/breno/public_html/funnybee/scripts/Loop.php on line 11
+[28-May-2014 08:58:10 America/Chicago] PHP Fatal error:  Call to undefined method Config::connect() in /home4/breno/public_html/funnybee/scripts/Loop.php on line 11
+[28-May-2014 08:58:36 America/Chicago] PHP Fatal error:  Call to undefined method Config::connect() in /home4/breno/public_html/funnybee/scripts/Loop.php on line 11
+[28-May-2014 08:58:37 America/Chicago] PHP Fatal error:  Call to undefined method Config::connect() in /home4/breno/public_html/funnybee/scripts/Loop.php on line 11
+[28-May-2014 08:59:02 America/Chicago] PHP Fatal error:  Call to undefined method Config::connect() in /home4/breno/public_html/funnybee/scripts/Loop.php on line 11
+[28-May-2014 09:00:01 America/Chicago] PHP Fatal error:  Call to undefined method Config::connect() in /home4/breno/public_html/funnybee/scripts/Loop.php on line 11
+[28-May-2014 09:00:01 America/Chicago] PHP Fatal error:  Call to undefined method Config::connect() in /home4/breno/public_html/funnybee/scripts/Loop.php on line 11
+[28-May-2014 09:00:44 America/Chicago] PHP Fatal error:  Call to undefined method Config::connect() in /home4/breno/public_html/funnybee/scripts/Loop.php on line 11
+[28-May-2014 09:00:44 America/Chicago] PHP Fatal error:  Call to undefined method Config::connect() in /home4/breno/public_html/funnybee/scripts/Loop.php on line 11
+[28-May-2014 09:00:45 America/Chicago] PHP Fatal error:  Call to undefined method Config::connect() in /home4/breno/public_html/funnybee/scripts/Loop.php on line 11
+[28-May-2014 09:00:46 America/Chicago] PHP Fatal error:  Call to undefined method Config::connect() in /home4/breno/public_html/funnybee/scripts/Loop.php on line 11
+[28-May-2014 09:00:49 America/Chicago] PHP Fatal error:  Call to undefined method Config::connect() in /home4/breno/public_html/funnybee/scripts/Loop.php on line 11
+[28-May-2014 09:00:50 America/Chicago] PHP Fatal error:  Call to undefined method Config::connect() in /home4/breno/public_html/funnybee/scripts/Loop.php on line 11
+[28-May-2014 09:01:00 America/Chicago] PHP Fatal error:  Class 'Config' not found in /home4/breno/public_html/funnybee/scripts/Loop.php on line 10
+[28-May-2014 09:01:01 America/Chicago] PHP Fatal error:  Class 'Config' not found in /home4/breno/public_html/funnybee/scripts/Loop.php on line 10
+[28-May-2014 09:01:17 America/Chicago] PHP Fatal error:  Call to undefined method Config::connect() in /home4/breno/public_html/funnybee/scripts/Loop.php on line 11
+[28-May-2014 09:01:18 America/Chicago] PHP Fatal error:  Call to undefined method Config::connect() in /home4/breno/public_html/funnybee/scripts/Loop.php on line 11
+[28-May-2014 09:01:28 America/Chicago] PHP Fatal error:  Call to undefined method Config::connect() in /home4/breno/public_html/funnybee/scripts/Loop.php on line 11
+[28-May-2014 09:01:28 America/Chicago] PHP Fatal error:  Call to undefined method Config::connect() in /home4/breno/public_html/funnybee/scripts/Loop.php on line 11
+[28-May-2014 09:01:41 America/Chicago] PHP Fatal error:  Call to undefined method Config::connect() in /home4/breno/public_html/funnybee/scripts/Loop.php on line 11
+[28-May-2014 09:01:41 America/Chicago] PHP Fatal error:  Call to undefined method Config::connect() in /home4/breno/public_html/funnybee/scripts/Loop.php on line 11
+[28-May-2014 09:01:46 America/Chicago] PHP Fatal error:  Call to undefined method Config::connect() in /home4/breno/public_html/funnybee/scripts/Loop.php on line 11
+[28-May-2014 09:01:46 America/Chicago] PHP Fatal error:  Call to undefined method Config::connect() in /home4/breno/public_html/funnybee/scripts/Loop.php on line 11
+[28-May-2014 09:01:59 America/Chicago] PHP Fatal error:  Call to undefined method Config::connect() in /home4/breno/public_html/funnybee/scripts/Loop.php on line 11
+[28-May-2014 09:01:59 America/Chicago] PHP Fatal error:  Call to undefined method Config::connect() in /home4/breno/public_html/funnybee/scripts/Loop.php on line 11
+[28-May-2014 09:02:05 America/Chicago] PHP Fatal error:  Call to undefined method Config::connect() in /home4/breno/public_html/funnybee/scripts/Loop.php on line 11
+[28-May-2014 09:02:05 America/Chicago] PHP Fatal error:  Call to undefined method Config::connect() in /home4/breno/public_html/funnybee/scripts/Loop.php on line 11
+[28-May-2014 09:02:32 America/Chicago] PHP Fatal error:  Call to undefined method Config::connect() in /home4/breno/public_html/funnybee/scripts/Loop.php on line 11
+[28-May-2014 09:02:33 America/Chicago] PHP Fatal error:  Call to undefined method Config::connect() in /home4/breno/public_html/funnybee/scripts/Loop.php on line 11
+[28-May-2014 09:02:34 America/Chicago] PHP Fatal error:  Call to undefined method Config::connect() in /home4/breno/public_html/funnybee/scripts/Loop.php on line 11
+[28-May-2014 09:02:35 America/Chicago] PHP Fatal error:  Call to undefined method Config::connect() in /home4/breno/public_html/funnybee/scripts/Loop.php on line 11
+[28-May-2014 09:02:38 America/Chicago] PHP Fatal error:  Call to undefined method Config::connect() in /home4/breno/public_html/funnybee/scripts/Loop.php on line 11
+[28-May-2014 09:02:38 America/Chicago] PHP Fatal error:  Call to undefined method Config::connect() in /home4/breno/public_html/funnybee/scripts/Loop.php on line 11
+[28-May-2014 09:02:45 America/Chicago] PHP Fatal error:  Call to undefined method Config::connect() in /home4/breno/public_html/funnybee/scripts/Loop.php on line 11
+[28-May-2014 09:02:45 America/Chicago] PHP Fatal error:  Call to undefined method Config::connect() in /home4/breno/public_html/funnybee/scripts/Loop.php on line 11
+[28-May-2014 09:02:51 America/Chicago] PHP Fatal error:  Call to undefined method Config::connect() in /home4/breno/public_html/funnybee/scripts/Loop.php on line 10
+[28-May-2014 09:02:52 America/Chicago] PHP Fatal error:  Call to undefined method Config::connect() in /home4/breno/public_html/funnybee/scripts/Loop.php on line 10
+[28-May-2014 09:02:59 America/Chicago] PHP Fatal error:  Call to undefined method Config::connect() in /home4/breno/public_html/funnybee/scripts/Loop.php on line 11
+[28-May-2014 09:02:59 America/Chicago] PHP Fatal error:  Call to undefined method Config::connect() in /home4/breno/public_html/funnybee/scripts/Loop.php on line 11
+[28-May-2014 09:03:28 America/Chicago] PHP Fatal error:  Call to undefined method Config::connect() in /home4/breno/public_html/funnybee/scripts/Loop.php on line 11
+[28-May-2014 09:03:29 America/Chicago] PHP Fatal error:  Call to undefined method Config::connect() in /home4/breno/public_html/funnybee/scripts/Loop.php on line 11
+[28-May-2014 09:03:34 America/Chicago] PHP Fatal error:  Call to undefined method Config::connect() in /home4/breno/public_html/funnybee/scripts/Loop.php on line 10
+[28-May-2014 09:03:34 America/Chicago] PHP Fatal error:  Call to undefined method Config::connect() in /home4/breno/public_html/funnybee/scripts/Loop.php on line 10
+[28-May-2014 09:03:36 America/Chicago] PHP Fatal error:  Call to undefined method Config::connect() in /home4/breno/public_html/funnybee/scripts/Loop.php on line 10
+[28-May-2014 09:03:37 America/Chicago] PHP Fatal error:  Call to undefined method Config::connect() in /home4/breno/public_html/funnybee/scripts/Loop.php on line 10
+[28-May-2014 09:03:51 America/Chicago] PHP Fatal error:  Call to undefined method Config::connect() in /home4/breno/public_html/funnybee/scripts/Loop.php on line 11
+[28-May-2014 09:03:52 America/Chicago] PHP Fatal error:  Call to undefined method Config::connect() in /home4/breno/public_html/funnybee/scripts/Loop.php on line 11
+[28-May-2014 09:04:03 America/Chicago] PHP Fatal error:  Call to undefined method Config::prepare() in /home4/breno/public_html/funnybee/scripts/Loop.php on line 17
+[28-May-2014 09:04:04 America/Chicago] PHP Fatal error:  Call to undefined method Config::prepare() in /home4/breno/public_html/funnybee/scripts/Loop.php on line 17
+[28-May-2014 09:04:11 America/Chicago] PHP Fatal error:  Call to undefined method Config::connect() in /home4/breno/public_html/funnybee/scripts/Loop.php on line 17
+[28-May-2014 09:04:11 America/Chicago] PHP Fatal error:  Call to undefined method Config::connect() in /home4/breno/public_html/funnybee/scripts/Loop.php on line 17
+[28-May-2014 09:04:50 America/Chicago] PHP Fatal error:  Call to undefined method Config::connect() in /home4/breno/public_html/funnybee/scripts/Loop.php on line 11
+[28-May-2014 09:04:50 America/Chicago] PHP Fatal error:  Call to undefined method Config::connect() in /home4/breno/public_html/funnybee/scripts/Loop.php on line 11
+[28-May-2014 09:11:55 America/Chicago] PHP Warning:  include_once(scripts/loop.php): failed to open stream: No such file or directory in /home4/breno/public_html/funnybee/index.php on line 50
+[28-May-2014 09:11:55 America/Chicago] PHP Warning:  include_once(): Failed opening 'scripts/loop.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home4/breno/public_html/funnybee/index.php on line 50
+[28-May-2014 09:11:56 America/Chicago] PHP Warning:  include_once(scripts/loop.php): failed to open stream: No such file or directory in /home4/breno/public_html/funnybee/index.php on line 50
+[28-May-2014 09:11:56 America/Chicago] PHP Warning:  include_once(): Failed opening 'scripts/loop.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home4/breno/public_html/funnybee/index.php on line 50
+[28-May-2014 09:12:10 America/Chicago] PHP Fatal error:  Call to undefined method Config::connect() in /home4/breno/public_html/funnybee/scripts/Loop.php on line 11
+[28-May-2014 09:12:11 America/Chicago] PHP Fatal error:  Call to undefined method Config::connect() in /home4/breno/public_html/funnybee/scripts/Loop.php on line 11
+[28-May-2014 09:12:50 America/Chicago] PHP Warning:  require_once(config.php): failed to open stream: No such file or directory in /home4/breno/public_html/funnybee/scripts/Loop.php on line 2
+[28-May-2014 09:12:50 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'config.php' (include_path='.:/opt/php54/lib/php') in /home4/breno/public_html/funnybee/scripts/Loop.php on line 2
+[28-May-2014 09:12:51 America/Chicago] PHP Warning:  require_once(config.php): failed to open stream: No such file or directory in /home4/breno/public_html/funnybee/scripts/Loop.php on line 2
+[28-May-2014 09:12:51 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'config.php' (include_path='.:/opt/php54/lib/php') in /home4/breno/public_html/funnybee/scripts/Loop.php on line 2
+[29-May-2014 05:15:39 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home4/breno/public_html/funnybee/scripts/mainLoop.php on line 42
+[29-May-2014 05:15:40 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home4/breno/public_html/funnybee/scripts/mainLoop.php on line 42
+[29-May-2014 05:15:48 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home4/breno/public_html/funnybee/scripts/mainLoop.php on line 42
+[29-May-2014 05:15:48 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home4/breno/public_html/funnybee/scripts/mainLoop.php on line 42
+[30-May-2014 12:38:02 America/Chicago] PHP Warning:  parse_url() expects parameter 1 to be string, array given in /home4/breno/public_html/funnybee/index.php on line 65
+[30-May-2014 12:38:02 America/Chicago] PHP Warning:  parse_url() expects parameter 1 to be string, array given in /home4/breno/public_html/funnybee/index.php on line 65
+[30-May-2014 14:15:31 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home4/breno/public_html/funnybee/scripts/mainLoop.php on line 31
+[30-May-2014 14:15:32 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home4/breno/public_html/funnybee/scripts/mainLoop.php on line 31
+[30-May-2014 14:15:35 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home4/breno/public_html/funnybee/scripts/mainLoop.php on line 31
+[30-May-2014 14:15:35 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home4/breno/public_html/funnybee/scripts/mainLoop.php on line 31
+[30-May-2014 14:17:21 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home4/breno/public_html/funnybee/scripts/mainLoop.php on line 31
+[30-May-2014 14:17:22 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home4/breno/public_html/funnybee/scripts/mainLoop.php on line 31
+[30-May-2014 14:17:23 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home4/breno/public_html/funnybee/scripts/mainLoop.php on line 31
+[30-May-2014 14:17:24 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home4/breno/public_html/funnybee/scripts/mainLoop.php on line 31
+[30-May-2014 14:17:54 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home4/breno/public_html/funnybee/scripts/mainLoop.php on line 31
+[30-May-2014 14:17:54 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home4/breno/public_html/funnybee/scripts/mainLoop.php on line 31
+[31-May-2014 09:54:18 America/Chicago] PHP Fatal error:  Call to undefined function alert() in /home4/breno/public_html/funnybee/scripts/mainLoop.php on line 27
+[31-May-2014 09:54:18 America/Chicago] PHP Fatal error:  Call to undefined function alert() in /home4/breno/public_html/funnybee/scripts/mainLoop.php on line 27
+[31-May-2014 09:54:35 America/Chicago] PHP Fatal error:  Call to undefined function alert() in /home4/breno/public_html/funnybee/scripts/mainLoop.php on line 27
+[31-May-2014 09:54:35 America/Chicago] PHP Fatal error:  Call to undefined function alert() in /home4/breno/public_html/funnybee/scripts/mainLoop.php on line 27
+[31-May-2014 09:54:50 America/Chicago] PHP Fatal error:  Call to undefined function alert() in /home4/breno/public_html/funnybee/scripts/mainLoop.php on line 27
+[31-May-2014 09:54:51 America/Chicago] PHP Fatal error:  Call to undefined function alert() in /home4/breno/public_html/funnybee/scripts/mainLoop.php on line 27

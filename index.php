@@ -1,3 +1,16 @@
+<?php
+	if (version_compare(PHP_VERSION, '5.3.7', '<')) {
+		exit('Sorry, this script does not run on a PHP version smaller than 5.3.7 !');
+	} else if (version_compare(PHP_VERSION, '5.5.0', '<')) {
+		require_once('php-login-advanced/libraries/password_compatibility_library.php');
+	}
+	require_once('php-login-advanced/config/config.php');
+	require_once('php-login-advanced/translations/en.php');
+	require_once('php-login-advanced/libraries/PHPMailer.php');
+	require_once('php-login-advanced/classes/Login.php');
+	$login = new Login(); 
+?>
+
 <!DOCTYPE html>
 <html>
 
@@ -14,10 +27,10 @@
 	
 <script>
 
-	var eventt = new Event('loadPosts');
+	//var eventt = new Event('loadPosts');
 	//eventt.initEvent('loadPosts', false, true);
 	var a = 0;
-	
+
 	function randomizePosts(){
 	var myHtml = "";
 		$.ajax({
@@ -52,18 +65,29 @@
 		document.location.href = "/";
 	}
 	
+	function loginHover(){
+		$("#loginHeader").show();
+	}
+	
+	function closeLogin(){
+		$("#loginHeader").hide();
+	}
+	$(document).ready(function(){
+	
+	});
+
+	
 </script>
 </head>
 
 <body>
 
-	<div id="header">
-		<a class="button" onclick="randomizePosts();">Randomize</a>
-		<!--<a class="button" onclick="reloadPage();">Randomize</a>-->
-	</div>
+	<?php require_once("header.php"); ?>
+	
 	
 	<div id="centerContainer">
-		<?php include_once('scripts/mainLoop.php'); ?>
+		<?php require_once('scripts/mainLoop.php'); ?>
+				
 	</div>
 
 	

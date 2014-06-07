@@ -6,9 +6,9 @@
     <style type="text/css">
         /* just for the demo */
         body {
-            font-family: Arial, sans-serif;
-            font-size: 12px;
-            margin: 10px;
+            //font-family: Arial, sans-serif;
+            //font-size: 12px;
+            //margin: 10px;
         }
         label {
             position: relative;

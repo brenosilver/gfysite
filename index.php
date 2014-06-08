@@ -65,15 +65,23 @@
 		document.location.href = "/";
 	}
 	
-	function loginHover(){
+	function openLogin(){
 		$("#loginHeader").show();
 	}
 	
 	function closeLogin(){
 		$("#loginHeader").hide();
 	}
+
 	$(document).ready(function(){
-	
+		// Close login Window when click outside
+		$('body').click(function(e){
+			if($(e.target).closest('#loginHeader').length === 0){
+				if(e.target.tagName != "LI")
+					closeLogin();
+			}
+		});
+		
 	});
 
 	

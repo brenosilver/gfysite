@@ -2,7 +2,7 @@
 	<a class="button" onclick="randomizePosts();">Randomize</a>
 	
 	<ul id="nav" class="floatRight">
-		<li onclick="loginHover();">
+		<li onclick="openLogin();">
 		<?php
 			if ($login->isUserLoggedIn() == true) {
 				echo "logout";

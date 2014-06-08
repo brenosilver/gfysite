@@ -85,5 +85,18 @@ $(document).ready(function(){
 		$(event.target).parent().css({opacity: 1});
 		$(".item.opacity").animate({opacity: 0.2}, 300);
 	};
+	
+	$(document).on("mouseover", ".opacity", function(e){
+		if(currentImg == "")
+			$(this).css("opacity", 0.4); 
+	});
+
+	$(document).on("mouseout", ".opacity", function(e){
+		if(currentImg == "")
+			$(this).css("opacity", 1); 
+	});
+	
+	/*Login window functions*/
+	
 			
 });

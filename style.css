@@ -68,9 +68,6 @@ body{
 	z-index:8;
 }
 
-#centerContainer  .opacity:hover{
-	opacity: 0.4;
-}
 /****Header****/
 #header{
 	position: fixed;

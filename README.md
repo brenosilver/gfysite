@@ -6,4 +6,5 @@ Funnybee uses an api to get the best gifs from different sources, convert these 
 Funnybee is a website focused on simplicity.
 
 If you want to help please feel free to leave a comment and I will add you as a collaborator.
+
 Thank you.
